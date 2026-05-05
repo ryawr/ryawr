@@ -16,6 +16,7 @@
 
 ## Connect with me:
  📧 ryadav4@buffalo.edu
+ 
  💬 https://www.linkedin.com/in/rahulyadavcv/
  
 
