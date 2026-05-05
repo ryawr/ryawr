@@ -16,6 +16,8 @@
 
 ## Connect with me:
  📧 ryadav4@buffalo.edu
+ 💬 https://www.linkedin.com/in/rahulyadavcv/
+ 
 
 <!--
 **ryawr/ryawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
