@@ -4,11 +4,9 @@
 
 *  🏦 Previously, I served as a Senior Manager and Data Scientist at Axis Bank, where I built and end-to-end managed credit underwriting models (credit card and personal loans).
 
-*  🤖 Currently, I'm focused on Reinforcement Learning from AI Feedback (RLAIF), fine-tuning Mistral models for hallucination-free ticket recommendations.
+*  💡 I enjoy building, deploying and managing end to end AI solutions.
 
-*  💡 I enjoy building and deploying cloud-native solutions, like my Gen AI-Powered Relational Data Interface that uses the Gemini API for NL-to-SQL translation.
-
-*  🛠️ My toolkit includes Python, PySpark, SQL, R, PyTorch, Docker, GCP (Vertex AI), AWS, Streamlit, PostgreSQL.
+*  🛠️ My toolkit includes Python, PyTorch, PySpark, SQL, R, Linux, Docker, GCP (Vertex AI), AWS, Streamlit, PostgreSQL, ChromaDB
 
 *  🏆 Recipient of the Team Excellence and Star Awards for capturing significant business in loan revenue.
 
